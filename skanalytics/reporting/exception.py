@@ -1,0 +1,3 @@
+
+class ReportingException(Exception):
+    pass
